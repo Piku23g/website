@@ -1,0 +1,4 @@
+s1="hello"
+s2="bye"
+print(s1)
+print(s2)
